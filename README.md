@@ -41,3 +41,4 @@ The Marvel Soccer Team Selector is a single-page application (SPA) that allows u
 - [React.js](https://reactjs.org/) - The web framework used
 - [Styled-components](https://styled-components.com/) - For styling components
 - [Marvel API](https://developer.marvel.com/) - Used to fetch character data
+
