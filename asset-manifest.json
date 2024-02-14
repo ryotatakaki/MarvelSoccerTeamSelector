@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MarvelSoccerTeamSelector/static/css/main.e6c13ad2.css",
+    "main.js": "/MarvelSoccerTeamSelector/static/js/main.bb92686e.js",
+    "static/js/592.23671852.chunk.js": "/MarvelSoccerTeamSelector/static/js/592.23671852.chunk.js",
+    "index.html": "/MarvelSoccerTeamSelector/index.html",
+    "main.e6c13ad2.css.map": "/MarvelSoccerTeamSelector/static/css/main.e6c13ad2.css.map",
+    "main.bb92686e.js.map": "/MarvelSoccerTeamSelector/static/js/main.bb92686e.js.map",
+    "592.23671852.chunk.js.map": "/MarvelSoccerTeamSelector/static/js/592.23671852.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bb92686e.js"
+  ]
+}
